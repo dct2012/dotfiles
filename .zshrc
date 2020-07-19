@@ -327,7 +327,3 @@ alias lsa='ls -lha --group-directories-first --color=tty'
 alias mkdirp='mkdir -p'
 
 alias gitNoSSL='git -c http.sslVerify=false'
-alias desktop-local='ssh dct@192.168.1.5'
-
-alias rtorrent="$HOME/bin/rtorrent"
-
