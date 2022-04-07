@@ -291,7 +291,8 @@ export plugins=(
 
 export LC_CTYPE=en_US.UTF-8
 
-export PATH="$HOME/bin:$HOME/.local/bin:${PATH}"
+export PATH="$HOME/bin:$HOME/.local/bin:$HOME/Desktop/Computers/fuchsia/fuchsia/.jiri_root/bin:PATH${PATH}"
+source $HOME/Desktop/Computers/fuchsia/fuchsia/scripts/fx-env.sh
 
 export TERM="xterm-256color"
 #export MANPAGER="/usr/bin/vimmanpager"
