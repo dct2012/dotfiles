@@ -164,7 +164,7 @@ export plugins=(
   node
   #nomad
   npm
-  npx
+  #npx
   #nvm
   #nyan
   #oc
